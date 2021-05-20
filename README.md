@@ -2,5 +2,4 @@
 - 👀 I’m interested in programming algorithm and data structure.
 - 🌱 I’m currently learning how to be a software engineer. I'm in the second semester of Brasilia University (UnB).
 - 💞️ I’m looking to collaborate in open source code.
-- 📫 How to reach me: leonardomilov@gmail.com .
-
+- 📫 How to reach me: leonardomilov@gmail.com.
