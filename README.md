@@ -3,17 +3,20 @@
 ## About me
 
 - Born and raised in Brasilia, Brazil.
-- Estudying Software Engineering at Brasilia University (UnB), currently in the second semester.
+- Estudying Software Engineering at Brasilia University (UnB), currently in the fourth semester.
 - Looking to collaborate in open source code.
 
 ## What I know
 
-- Code algorithm and data structure in advanced language in C.
-- Git 
+
+- Languages: Fluent English and Portuguese
+- Programming Languages: C Advanced and Python Itermediate Level
+- Programming Skills: Object Oriented Programming and Data Structure
+- Git/GitHub
 
 ## What I'm learning
 
-- Gitflow and Phyton
+- Phyton Advanced
 
 ## How to reach me
 
