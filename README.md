@@ -10,7 +10,7 @@
 
 
 - Languages: Fluent English and Portuguese
-- Programming Languages: C Advanced and Python Itermediate Level
+- Programming Languages: C Advanced and Python Itermediate 
 - Programming Skills: Object Oriented Programming and Data Structure
 - Git/GitHub
 
