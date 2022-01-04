@@ -3,7 +3,7 @@
 ## About me
 
 - Born and raised in Brasilia, Brazil.
-- Estudying Software Engineering at Brasilia University (UnB), currently in the fourth semester.
+- Estudying Software Engineering at Brasilia University (UnB), currently in the 4th semester.
 - Looking to collaborate in open source code.
 
 ## What I know
