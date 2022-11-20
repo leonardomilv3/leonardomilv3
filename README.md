@@ -29,6 +29,6 @@ research about Sistema de Informação sobre o Ecossistema da Pesquisa Científi
 - Email: leonardomilov@gmail.com or leonardo.vitoriano@aluno.unb.br
 - [Linkedin](https://www.linkedin.com/in/leonardo-milomes/)
 
-<div align="center">
+<div style="text-align:center;">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardomilv3&show_icons=true&theme=radical)
 </div>
