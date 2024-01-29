@@ -8,9 +8,14 @@
 
 ## Experience
 
-- 1 year as Research Assistant of IBICT (Instituto Brasileiro de Informação em Ciância e Tecnologia),
+- 1 year and a half as Research Assistant of IBICT (Instituto Brasileiro de Informação em Ciência e Tecnologia),
 research about Sistema de Informação sobre o Ecossistema da Pesquisa Científica no Distrito Federal.
-- At IBICT, the developmented activites were: Assistance in the implementation of visualization forms in scientific information and Systematic review of the literature: Forms of information visualization.
+   - At IBICT, the developmented activites were: Assists in research to carry out data organization and analysis studies. It helps in the implementation of forms of visualization in scientific information. Developed applications for collection, treatment, organization and management of data.
+   - Main technologies: software engineering concepts, Git, Github, soft-skills, Python/Django, Java, HTML, CSS, JavaScript, Docker, PostgreSQL.
+- 6 months in BRISA as Software Engineer Intern, with the Bus Routes application scenario, all with legacy code, the challenge was to build the first open source and Open Source API in the world.
+   - So, I led the developer team as a Scrum Master. I selected the requirements with the team and the client. I participated in the pre-processing stage of data, along with the construction of Graphs and changes to the shortest path to the system context. I also participated in the Testing and
+the preparation of software documentation.
+   - Main technologies: software engineering concepts, graph algorithms, Git / Github, soft-skills, Python, Rest API, Docker, Markdown.
 
 ## Languages and Tools:
 
