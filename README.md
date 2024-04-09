@@ -8,7 +8,7 @@
 
 ## Experience
 
-- 1 year and a half as Research Assistant of IBICT (Instituto Brasileiro de Informação em Ciência e Tecnologia),
+- 2 years as Research Assistant of IBICT (Instituto Brasileiro de Informação em Ciência e Tecnologia),
 research about Sistema de Informação sobre o Ecossistema da Pesquisa Científica no Distrito Federal.
    - At IBICT, the developmented activites were: Assists in research to carry out data organization and analysis studies. It helps in the implementation of forms of visualization in scientific information. Developed applications for collection, treatment, organization and management of data.
    - Main technologies: software engineering concepts, Git, Github, soft-skills, Python/Django, Java, HTML, CSS, JavaScript, Docker, PostgreSQL.
