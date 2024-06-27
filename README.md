@@ -3,7 +3,7 @@
 ## About me
 
 - Born and raised in Brasilia, Brazil.
-- Estudying Software Engineering at Brasilia University (UnB), currently in the 8th semester.
+- Estudying Software Engineering at Brasilia University (UnB), currently in my 5th year (last year).
 - Love going to the gym and play football.
 
 ## Experience
